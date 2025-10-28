@@ -1,1 +1,1 @@
-# RAG (Retrieval Augmented Generation) on Llama Model for Linear Algebra
+# RAG (Retrieval-Augmented Generation) on Llama Model for Linear Algebra
